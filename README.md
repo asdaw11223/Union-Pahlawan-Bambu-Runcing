@@ -9,10 +9,5 @@ perkumpulan yang berarti melibatkan lebih dari satu orang di dalamnya.
 4. 193040040 - Dimas Nanda Herlambang (Programer)
 5. 193040007 - Lamhot Kristopher (Programer)
 
-# Genre game yang dipilih
-Ganre yang dipilih yaitu Shooting dengan ide awal diambil dari masa Kemerdekaan
-Indonesian, yang dimana karakter utama akan menggunakan tombak bambu runcing untuk
-melawan musuhnya, dengan theme utama agar mudah mengingatkan jasa para pahlawan dan
-menguatkan jiwa patriotisme. Disini kami ingin memberikan suasana menegankan seperti saat
-terjadinya perang. Untuk mechanic, sang karakter utama dapat menembak, berjalan, meloncat,
-dan menunduk. 
+# Genre Game Pahlawan Bambu Runcing
+Game dengan genre Platformer yang berjudul Pahlawan Bambu Runcing, yaitu game yang menceritakan perjuangan melawan para penjajah untuk mendapatkan kemerdekan Indonesia. Dimana pahlawan dapat menggunakan bambu runcing untuk melawan penjajah.
